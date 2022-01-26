@@ -1,2 +1,2 @@
 #Informacion
-Esta carpeta contiene las salidas del sistemas
+Esta carpeta contiene las salidas del sistema
